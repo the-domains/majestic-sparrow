@@ -1,4 +1,3 @@
-layout_spectrum: 0.9011366507038474
 typography_spectrum: 0.36233287560753524
 color:
   brandStrength: 0.8765512187965214
@@ -11,4 +10,9 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.9011366507038474
+author:
+  name: Brandon Pollock
+  email: brandon.pollockbp@gmail.com
 name: Majestic Sparrow
+title: Fine Art Photography
