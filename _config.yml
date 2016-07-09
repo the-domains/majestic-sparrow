@@ -1,15 +1,15 @@
-typography_spectrum: 0.36233287560753524
+typography_spectrum: 0.3221344295889139
 color:
-  brandStrength: 0.8765512187965214
-  lightness: 0.13639791659079492
-  saturation: 0.22766213468275964
-  rhythmicContrast: 0.7677594148553908
+  brandStrength: 0.22060013143345714
+  lightness: 0.4401607390027493
+  saturation: 0.05587186780758202
+  rhythmicContrast: 0.3206633008085191
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 layout_spectrum: 0.9011366507038474
 author:
   name: Brandon Pollock
