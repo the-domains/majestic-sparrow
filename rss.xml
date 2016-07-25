@@ -4,7 +4,7 @@
         <description><![CDATA[Fine Art Photography]]></description>
         <link>https://thegrid.ai/majestic-sparrow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 20:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 21:27:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/majestic-sparrow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/majestic-sparrow/1834fff8-8a1f-4793-ae8a-512be0413d99/index.html</link>
             <guid isPermaLink="false">1834fff8-8a1f-4793-ae8a-512be0413d99</guid>
             <pubDate>Thu, 21 Jul 2016 19:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/782e965d-60c5-478b-846b-e78b5876b26c.jpg">]]></description>
+            <link>https://thegrid.ai/majestic-sparrow/5f4cb364-fc6d-46db-bfb8-27a9cc5a6940/index.html</link>
+            <guid isPermaLink="false">5f4cb364-fc6d-46db-bfb8-27a9cc5a6940</guid>
+            <pubDate>Mon, 25 Jul 2016 21:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/majestic-sparrow/38403618-0b30-40d5-94ea-b51a7d41cfbf/index.html</link>
             <guid isPermaLink="false">38403618-0b30-40d5-94ea-b51a7d41cfbf</guid>
             <pubDate>Thu, 21 Jul 2016 19:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da65d17b-f098-44a8-b14c-81ea46be84d5.jpg">]]></description>
-            <link>https://thegrid.ai/majestic-sparrow/b49a8b0e-6ba9-4851-8763-9a23c6629f68/index.html</link>
-            <guid isPermaLink="false">b49a8b0e-6ba9-4851-8763-9a23c6629f68</guid>
-            <pubDate>Tue, 19 Jul 2016 00:59:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
